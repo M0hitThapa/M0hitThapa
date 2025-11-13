@@ -1,35 +1,22 @@
 # 👋 Hi, I'm Mohit Thapa
-
-💻 **Full Stack Developer | Creative Frontend Engineer**
-
-I’m passionate about building clean, modern, and meaningful digital experiences.  
-I focus on **creating better design through code** — blending creativity and functionality to craft smooth, beautiful, and responsive interfaces.
-
----
-
-### 🚀 What I Do
-- Build sleek and performant web applications  
-- Turn design ideas into pixel-perfect frontends  
-- Create animations and micro-interactions that feel alive  
-- Collaborate on modern UI/UX design systems
+- I am a fullstack developer with a creativity to create beautiful design with code.
+- I am currently based in Nepal.
+- I am capable of working in both frontend and backend part but more comfortable with frontend.
+- I mostly code using NextJs, typescript, tailwindcss, motion, postgresql.
 
 ---
 
-### 🧰 Tech Stack
-- ⚛️ **React** / **Next.js**  
-- 🎨 **Tailwind CSS** / **Framer Motion**  
-- 🧠 **TypeScript**  
-- ⚙️ **Node.js** / **Express** (for backend)  
-- 🗄️ **PostgreSQL** / **MongoDB**  
+### ❇️ Tech Stack
+
+**Frontend:** React · Next.js · Tailwind CSS · TypeScript · Framer Motion  
+**Backend:** Node.js · Express · PostgreSQL · MongoDB · Drizzle ORM
 
 ---
 
-### 🎯 My Focus
-> “Design isn’t just what it looks like — it’s how it *feels* when you use it.”
+# 🎯 What I Love
+- Designing responsive, user-friendly interfaces
+- Creating smooth animations and micro-interactions  
+- Building fast, secure APIs and databases  
+- Turning complex ideas into simple, elegant products
 
-I love turning ideas into interactive, aesthetic, and scalable products that make a difference.
 
----
-
-
-⭐️ *“Code with creativity, design with logic.”*
