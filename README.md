@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohit Thapa
 
-<!--
-**M0hitThapa/M0hitThapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full Stack Developer | Creative Frontend Engineer**
 
-Here are some ideas to get you started:
+I’m passionate about building clean, modern, and meaningful digital experiences.  
+I focus on **creating better design through code** — blending creativity and functionality to craft smooth, beautiful, and responsive interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I Do
+- Build sleek and performant web applications  
+- Turn design ideas into pixel-perfect frontends  
+- Create animations and micro-interactions that feel alive  
+- Collaborate on modern UI/UX design systems
+
+---
+
+### 🧰 Tech Stack
+- ⚛️ **React** / **Next.js**  
+- 🎨 **Tailwind CSS** / **Framer Motion**  
+- 🧠 **TypeScript**  
+- ⚙️ **Node.js** / **Express** (for backend)  
+- 🗄️ **PostgreSQL** / **MongoDB**  
+
+---
+
+### 🎯 My Focus
+> “Design isn’t just what it looks like — it’s how it *feels* when you use it.”
+
+I love turning ideas into interactive, aesthetic, and scalable products that make a difference.
+
+---
+
+
+⭐️ *“Code with creativity, design with logic.”*
